@@ -1,3 +1,2 @@
-# MyLab
+# Jsut for thinkter test.
 
-# Just for a test.
