@@ -1,2 +1,2 @@
-# Jsut for thinkter test.
+# Jsut for tkinter test.
 
